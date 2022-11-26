@@ -4,7 +4,7 @@ I'm currently learning about the computer hardware and WPILIB library for my fir
 
 I also am a huge animation and 3D design geek so I love working on Occulus Quest 2 games as well :) I started side loading and making my XR projects in Unity this summer. Hope to improve myself more on this topic! If you are also exploring this field I would love to have a chat with you.
 
-Currently I’m looking to collaborate on Game Jams too. I can use Unity Engine and GameMaker Studio 2. I also am an amateur artist that can draw sprites via Aseprite or create 3D models on Zbrush. Moreover, if there is any narrative needed for games I use Procreate to draw digitally.
+Currently I’m looking to collaborate on Game Jams too. I can use Unity Engine, Sandbox Game Maker and GameMaker Studio 2. I also am an amateur artist that can draw sprites via Aseprite or create 3D models on Zbrush. Moreover, if there is any narrative needed for games I use Procreate to draw digitally.
 Feel free to reach me via alya.kurt@gmail.com! 
 
 
